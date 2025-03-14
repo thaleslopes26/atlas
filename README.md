@@ -1,4 +1,3 @@
-
 🎭 Testes Automatizados com Playwright - Atlas QA
 📌 Descrição
 Este repositório contém três testes automatizados utilizando Playwright para validar funcionalidades essenciais do sistema Atlas QA.
@@ -55,3 +54,10 @@ Verifica se a mudança foi aplicada corretamente
 Acessa o menu do usuário
 Clica na opção de logout
 Verifica se foi redirecionado para a tela de login
+📜 Contribuição
+Sinta-se à vontade para abrir issues e pull requests para melhorias no projeto.
+
+📄 Licença
+Este projeto é de uso educacional.
+
+Agora está certinho com o teste de logout incluso! 🚀
